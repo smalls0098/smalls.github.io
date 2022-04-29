@@ -20,7 +20,7 @@ I'm Smalls. A indie software developer.
 [![](https://img.shields.io/badge/-XCode-50afe9?style=flat-square&logo=Xcode&logoColor=ffffff)](https://developer.apple.com/xcode/)
 [![](https://img.shields.io/badge/-Goland-3c5cf0?style=flat-square&logo=Goland&logoColor=ffffff)](https://www.jetbrains.com/zh-cn/go/)
 
-<img src="https://github.com/smalls0098/smalls0098/blob/master/gopher.gif">
+<img src="https://github.com/smalls0098/smalls0098/blob/main/gopher.gif">
 
 #### Github State
 
