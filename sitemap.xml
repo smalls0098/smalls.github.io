@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>smalls</title>
+    <link>http://www.smalls0098.com/</link>
+    
+    <image>
+      <url>http://www.smalls0098.com/icon.png</url>
+      <title>smalls</title>
+      <link>http://www.smalls0098.com/</link>
+    </image>
+    
+    <atom:link href="http://www.smalls0098.com/sitemap.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>菜鸟学飞，终有所成！</description>
+    <pubDate>Fri, 29 Apr 2022 04:22:52 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>test.md</title>
+      <link>http://www.smalls0098.com/posts/3d81b97e5266/</link>
+      <guid>http://www.smalls0098.com/posts/3d81b97e5266/</guid>
+      <pubDate>Fri, 29 Apr 2022 04:22:44 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;tests&quot;&gt;&lt;a href=&quot;#tests&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      
+      
+      <comments>http://www.smalls0098.com/posts/3d81b97e5266/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://www.smalls0098.com/posts/6436dda863cb/</link>
+      <guid>http://www.smalls0098.com/posts/6436dda863cb/</guid>
+      <pubDate>Fri, 29 Apr 2022 04:16:30 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</description>
+          
+        
+      
+      
+      
+      
+      
+      
+      <comments>http://www.smalls0098.com/posts/6436dda863cb/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://www.smalls0098.com/posts/b59ead891eff/</link>
+      <guid>http://www.smalls0098.com/posts/b59ead891eff/</guid>
+      <pubDate>Fri, 29 Apr 2022 04:16:23 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</description>
+          
+        
+      
+      
+      
+      
+      
+      
+      <comments>http://www.smalls0098.com/posts/b59ead891eff/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://www.smalls0098.com/posts/621ec40a5421/</link>
+      <guid>http://www.smalls0098.com/posts/621ec40a5421/</guid>
+      <pubDate>Fri, 29 Apr 2022 02:51:02 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</description>
+          
+        
+      
+      
+      
+      
+      
+      
+      <comments>http://www.smalls0098.com/posts/621ec40a5421/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
